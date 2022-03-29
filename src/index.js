@@ -105,6 +105,7 @@ import './index.css';
         }
       return (
         <div className="game">
+          <text>An Chao</text>
           <div className="game-board">
             <Board
                 squares={current.squares}
